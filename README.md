@@ -2,7 +2,7 @@
 C# Prework
 
 
-#Introduction to C#
+## Introduction to C#
 
 -> Declare and use variables
 
@@ -10,7 +10,7 @@ C# Prework
 
 -> Do more with strings
 
-#Manipulate integral and floating point numbers in C#
+## Manipulate integral and floating point numbers in C#
 
 -> integer math
 
@@ -22,7 +22,7 @@ C# Prework
 
 -> decimal type
 
-#Conditional logic with branch and loop statements in C#
+## Conditional logic with branch and loop statements in C#
 
 -> if and else statement
 
@@ -31,4 +31,4 @@ C# Prework
 -> for loops and nested loops
 
 
-# List collection
+## List collection
