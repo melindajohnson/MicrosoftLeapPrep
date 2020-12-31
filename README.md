@@ -1,6 +1,4 @@
-# Microsoft Leap Prep
-C# Prework
-
+# Microsoft Leap Prep in C#
 
 ## Introduction to C#
 
@@ -32,3 +30,14 @@ C# Prework
 
 
 ## List collection
+
+-> Create and modify lists
+
+-> search and sort lists
+
+-> list types
+
+## Object Oriented Programming
+
+
+
