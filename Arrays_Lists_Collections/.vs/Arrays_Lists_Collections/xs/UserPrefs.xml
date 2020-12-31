@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{2A6FB42D-4172-46EF-B2A2-9D7A405B1DD2}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Arrays_Lists_Collections/Program.cs">
     <Files>
-      <File FileName="Arrays_Lists_Collections/Program.cs" Line="1" Column="1" />
+      <File FileName="Arrays_Lists_Collections/Program.cs" Line="24" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -23,6 +23,6 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Arrays__Lists__Collections FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Arrays__Lists__Collections PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
