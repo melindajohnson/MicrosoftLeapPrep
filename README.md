@@ -1,33 +1,31 @@
-**# MicrosoftLeapPrep**
+# Microsoft Leap Prep
+C# Prework
 
-**C# Prework**
 
-**Introduction to C#**
+#Introduction to C#
+-> Declare and use variables
 
--\&gt; Declare and use variables
+-> Work with strings
 
--\&gt; Work with strings
+-> Do more with strings
 
--\&gt; Do more with strings
+#Manipulate integral and floating point numbers in C#
+-> integer math
 
-**Manipulate integral and floating point numbers in C#**
+-> order of operations
 
--\&gt; integer math
+-> integer precision and limits
 
--\&gt; order of operations
+-> double type
 
--\&gt; integer precision and limits
+-> decimal type
 
--\&gt; double type
+#Conditional logic with branch and loop statements in C#
+-> if and else statement
 
--\&gt; decimal type
+-> while and do while loops
 
-**Conditional logic with branch and loop statements in C#**
+-> for loops and nested loops
 
--\&gt;if and else statement
 
--\&gt; while and do while loops
-
--\&gt; for loops and nested loops
-
-**List collection**
+# List collection
